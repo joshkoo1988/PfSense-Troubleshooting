@@ -1,4 +1,4 @@
-<h1>PfSense-Troubleshooting</h1>
+<h1>PfSense-Troubleshooting & FAQ</h1>
 
 <h2>Description</h2>
 If you are having issues with your PfSense firewall here are some common tips and tricks that I have learned to resolve various issues
